@@ -3,7 +3,7 @@
   # <p align="center">SVG Logo Maker
 
   ## Description  
-    This project is an SVG logo generator which can take text, shape and color input from the user and output a simple logo as an svg file. The project also includes tests to test shape and color input using jest.
+This project is an SVG logo generator which can take text, shape and color input from the user and output a simple logo as an svg file. The project also includes tests to test shape and color input using jest.
 
   ## Table of Contents
   1. [Installation](#installation)
@@ -23,11 +23,17 @@
      
   ## Usage
   Once the app is initialized, answer the on-screen prompts and the logo.svg file will be generated in the 'examples' folder. If there are any errors, they will be printed to the console.
+   <br/><br/>
+![Recording2024-04-29234832-ezgif com-optimize](https://github.com/BeeCeeTee/CWRU-10-SVG-Logo-Maker/assets/117789057/54db9b9e-e24e-4c24-a35e-99fc70bb9556)
 
+<br/><br/>
 
+<img src="https://github.com/BeeCeeTee/CWRU-10-SVG-Logo-Maker/assets/117789057/545247c4-e3a8-4dc2-8d44-4e5366830d16" alt="svg logo" width="300"/>
 
-  > *An example svg logo image.*
-     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*An example svg logo image.*
+
+<br/><br/>
+ 
   ([Back to Top](#table-of-contents))
 
   ## Tests   
